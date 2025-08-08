@@ -129,6 +129,12 @@ Porque assim posso verificar rapidamente o que já foi finalizado
 
 ---
 
+## 🧠 Diferença entre Prioridade e Severidade
+
+| Conceito       | O que significa                                                        | Quem define          |
+| -------------- | ---------------------------------------------------------------------- | -------------------- |
+| **Prioridade** | Define o quão rápido o teste deve ser executado ou o defeito resolvido | Time de produto / QA |
+| **Severidade** | Mede o impacto técnico do problema no sistema                          | Time de QA           |
 
 
 
