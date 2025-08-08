@@ -71,8 +71,56 @@ O foco é aprimorar a escrita técnica, simular cenários reais de teste e mostr
     </tr>
   </tbody>
 </table>
-
 </details>
+
+
+## 🧪 O que é uma Suíte de Testes?
+
+Uma suíte de testes reúne casos que validam o comportamento esperado de uma funcionalidade ou fluxo, assegurando que a aplicação funcione conforme o planejado e que possíveis falhas sejam detectadas rapidamente.
+
+ Ter uma suíte bem documentada é essencial para:
+- Cobrir os principais cenários e variações
+- Facilitar a execução manual e futura automação
+- Ajudar na rastreabilidade dos testes
+- Manter consistência na validação de funcionalidades
+- Apoiar entregas com mais confiança
+
+---
+
+## ✍️ Linguagem Gherkin
+A linguagem Gherkin é usada para escrever casos de teste de forma simples e legível, mesmo por pessoas não técnicas.
+Ela segue o formato:
+
+```
+Cenário: [descrição do cenário]  
+Dado que [estado inicial]  
+Quando [ação realizada]  
+Então [resultado esperado]  
+```
+---
+
+Esse formato facilita a comunicação entre desenvolvedores, QAs e stakeholders, pois descreve o comportamento do sistema pela ótica do usuário.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
