@@ -101,6 +101,33 @@ Então [resultado esperado]
 
 Esse formato facilita a comunicação entre desenvolvedores, QAs e stakeholders, pois descreve o comportamento do sistema pela ótica do usuário.
 
+---
+
+## 📝 User Story  
+Eu, como usuária da aplicação  
+Gostaria de visualizar apenas os itens concluídos da minha lista
+Porque assim posso verificar rapidamente o que já foi finalizado
+
+---
+
+## 📌 Regras de Negócio
+
+- **RN1**: O filtro "Completed" exibe apenas os itens concluídos
+- **RN2**: Itens concluídos aparecem com texto riscado e checkbox marcado
+- **RN3**: Itens pendentes devem ser ocultados nessa visualização
+- **RN4**: O contador permanece visível e reflete corretamente a quantidade de itens pendentes
+
+---
+
+## ✅ Critérios de Aceite (Gherkin)  
+**Cenário:** Visualizar apenas os itens concluídos com o filtro "Completed"<br>
+**Dado que** existam itens pendentes e concluídos na lista<br>
+**Quando** seleciono o filtro "Completed"<br>
+**Então** somente os itens concluídos devem ser exibidos na lista<br>
+**E** eles devem aparecer com checkbox marcado e texto riscado<br>
+**E** o contador no rodapé deve exibir a quantidade correta de itens pendentes
+
+---
 
 
 
