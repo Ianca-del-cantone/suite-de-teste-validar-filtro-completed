@@ -97,7 +97,6 @@ Dado que [estado inicial]
 Quando [ação realizada]  
 Então [resultado esperado]  
 ```
----
 
 Esse formato facilita a comunicação entre desenvolvedores, QAs e stakeholders, pois descreve o comportamento do sistema pela ótica do usuário.
 
