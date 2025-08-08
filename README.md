@@ -136,6 +136,30 @@ Porque assim posso verificar rapidamente o que já foi finalizado
 | **Prioridade** | Define o quão rápido o teste deve ser executado ou o defeito resolvido | Time de produto / QA |
 | **Severidade** | Mede o impacto técnico do problema no sistema                          | Time de QA           |
 
+---
+
+## 📝 Sobre os Casos de Teste
+Todos os testes foram escritos com foco em:
+
+- Cobrir os comportamentos principais do filtro "Completed"
+- Trabalhar com critérios claros e mensuráveis
+- Organizar os testes com colunas como Prioridade, Severidade, Status, etc.
+
+  ---
+
+  🎯 Objetivo do Projeto
+ Praticar a criação de suítes de testes a partir de critérios bem definidos.
+
+- Validar o comportamento do filtro "Concluídos (Completed)" na exibição dos itens
+- Reforçar o uso de Gherkin como ponte entre negócio e testes
+- Desenvolver habilidades práticas essenciais para a atuação em QA
+
+---
+
+## 📌 Observação
+Este projeto não contém código-fonte, pois o foco está na documentação de testes e raciocínio analítico em QA.
+É um exercício essencial para fortalecer a base teórica e desenvolver uma visão crítica sobre o que deve ser testado em uma aplicação.
+
 
 
 
