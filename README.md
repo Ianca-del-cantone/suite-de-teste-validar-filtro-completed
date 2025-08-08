@@ -103,9 +103,9 @@ Esse formato facilita a comunicação entre desenvolvedores, QAs e stakeholders,
 
 ---
 
-## 📝 User Story
-Eu, como usuária da aplicação
-Gostaria de visualizar apenas os itens concluídos da minha lista
+## 📝 User Story  
+Eu, como usuária da aplicação  
+Gostaria de visualizar apenas os itens concluídos da minha lista  
 Porque assim posso verificar rapidamente o que já foi finalizado
 
 ---
